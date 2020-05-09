@@ -6,5 +6,5 @@ defaults:
       path: ""
     values:
       image:
-        path: /images/rrdcalendar_description.png
+        path: /images/rrdcalendar_image.png
 

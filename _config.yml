@@ -5,8 +5,8 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://i.gyazo.com/dcbb19d5464fa755d42b5c62df6c1b81.png
-        #src: https://i.gyazo.com/dcbb19d5464fa755d42b5c62df6c1b81.png
+      image:
+        path: https://i.gyazo.com/dcbb19d5464fa755d42b5c62df6c1b81.png
         #path: /images/rrdcalendar_image.png
         height: 630
         width: 1200

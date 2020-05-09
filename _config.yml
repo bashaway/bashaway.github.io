@@ -6,3 +6,5 @@ defaults:
       path: ""
     values:
       image: https://gyazo.com/778bae374fc41825733c6370d919884f/raw
+        height: 630
+        width: 1200

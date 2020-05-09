@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 twitter:
-  site: @bashaway
+  username: bashaway
 defaults:
   - scope:
       path: ""

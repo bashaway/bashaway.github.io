@@ -1,5 +1,3 @@
-# bashaway
-
 # product
 
 ## cacti plugins

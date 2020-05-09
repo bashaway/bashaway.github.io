@@ -1,5 +1,5 @@
 twitter:
-  card: summary
+  card: summary_large_image
   username: bashaway
 defaults:
   - scope:

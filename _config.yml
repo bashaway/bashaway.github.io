@@ -5,5 +5,5 @@ twitter:
   description: "page : bashaway github page"
   card: "summary_large_image"
   image:
-    src: "https://gyazo.com/778bae374fc41825733c6370d919884f/raw"
+    path: "/images/rrdcalendar_description.png";
 

@@ -1,4 +1,5 @@
 twitter:
+  card: summary
   username: bashaway
 defaults:
   - scope:

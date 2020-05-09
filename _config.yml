@@ -6,6 +6,6 @@ defaults:
       path: ""
     values:
       image: 
-        path: /images/rrdcalendar_image.png
+        src: https://i.gyazo.com/dcbb19d5464fa755d42b5c62df6c1b81.png
         height: 630
         width: 1200

@@ -1,9 +1,9 @@
 twitter:
-  username: "bashaway"
-  site: "bashaway"
+  username: bashaway
+  site: bashaway
   title: "bashaway github page"
   description: "page : bashaway github page"
-  card: "summary_large_image"
+  card: summary_large_image
   image:
-    path: "/images/rrdcalendar_description.png";
+    path: /images/rrdcalendar_description.png
 

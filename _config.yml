@@ -7,6 +7,4 @@ defaults:
     values:
       image:
         path: /images/rrdcalendar_description.png
-        height: 630
-        width: 1200
 

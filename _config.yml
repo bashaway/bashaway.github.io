@@ -5,6 +5,6 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://i.gyazo.com/778bae374fc41825733c6370d919884f.png
+      image: i.gyazo.com/778bae374fc41825733c6370d919884f.png
         height: 630
         width: 1200
